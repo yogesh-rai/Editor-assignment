@@ -1,0 +1,21 @@
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    flex: 1;
+    text-align: center;
+}
+
+.Editor-canvas {
+    margin-top: 20px;
+    height: 80vh;
+    width: 90vw;
+    border: 2px solid black;
+    padding: 10px;
+    overflow: auto;
+    background-color: white;
+}
